@@ -11,6 +11,11 @@ Re-Build the project (Build -> Rebuild Project).
 ##Resources
 
 [Grokking RxJava Part 1](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-	- Ends on Example 6
+	- Ends on example 6
+
+[Grokking RxJava Part 2](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
+	*In this series, the author provides method names that are network
+	related operations which return an Observable. This repo replaces all these calls
+	with loops and basic object manipulation* - Ends on example 11
 
 
