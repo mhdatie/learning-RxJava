@@ -18,4 +18,7 @@ Re-Build the project (Build -> Rebuild Project).
 	related operations which return an Observable. This repo replaces all these calls
 	with loops and basic object manipulation* - Ends on example 11
 
+[Grokking RxJava Part 3](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) -
+ Ends on example 13
+
 
