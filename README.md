@@ -33,9 +33,9 @@ Re-Build the project (Build -> Rebuild Project).
 
 - [RxJava Official Wiki](https://github.com/ReactiveX/RxJava/wiki)
 - [Rx Official Docs](http://reactivex.io/documentation/observable.html)
-- [Rx Official Tutorial List](reactivex.io/tutorials.html) (Go through it!) 
-	- [RxJava specific list](reactivex.io/tutorials.html#rxjava)
+- [Rx Official Tutorial List](http://reactivex.io/tutorials.html) (Go through it!) 
+	- [RxJava specific list](http://reactivex.io/tutorials.html#rxjava)
 	- [Designed set of excercises](https://github.com/jhusain/learnrxjava/)
-	- [RxJava for Android](reactivex.io/tutorials.html#android)
+	- [RxJava for Android](http://reactivex.io/tutorials.html#android)
 
 This repo will include most of the lists in this section and even focus on Android.
