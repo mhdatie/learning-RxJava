@@ -24,8 +24,8 @@ Re-Build the project (Build -> Rebuild Project).
 [Grokking RxJava Part 3](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) -
  **Examples 12-13**
 
-[How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
-- **Examples 1-7**
+[How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava) -
+ **Examples 1-7**
 
 [Error Handling - Official Documentation](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava#error-handling)
 
