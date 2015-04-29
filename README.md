@@ -38,4 +38,4 @@ Re-Build the project (Build -> Rebuild Project).
 	- [Designed set of excercises](https://github.com/jhusain/learnrxjava/)
 	- [RxJava for Android](reactivex.io/tutorials.html#android)
 
-This repo will include most of the list in this repo and even focus on Android.
+This repo will include most of the lists in this section and even focus on Android.
