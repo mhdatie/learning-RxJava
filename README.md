@@ -1,5 +1,5 @@
 # learning-RxJava
-**A set of RxJava sources &amp; examples from all around the web, implemented again.**
+**A set of RxJava sources &amp; examples from all around the web, extended.**
 
 ------------------
 
@@ -14,14 +14,28 @@ Re-Build the project (Build -> Rebuild Project).
 ##Resources
 
 [Grokking RxJava Part 1](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-	- **Ends on example 6**
+	- **Examples 1-6**
 
 [Grokking RxJava Part 2](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
 	*In this series, the author provides method names that are network
 	related operations which return an Observable. This repo replaces all these calls
-	with loops and basic object manipulation* - **Ends on example 11**
+	with loops and basic object manipulation* - **Examples 7-11**
 
 [Grokking RxJava Part 3](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/) -
- **Ends on example 13**
+ **Examples 12-13**
 
+[How To Use RxJava](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava)
+- **Examples 1-7**
 
+[Error Handling - Official Documentation](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava#error-handling)
+
+##Readings/Tutorials
+
+- [RxJava Official Wiki](https://github.com/ReactiveX/RxJava/wiki)
+- [Rx Official Docs](http://reactivex.io/documentation/observable.html)
+- [Rx Official Tutorial List](reactivex.io/tutorials.html) (Go through it!) 
+	- [RxJava specific list](reactivex.io/tutorials.html#rxjava)
+	- [Designed set of excercises](https://github.com/jhusain/learnrxjava/)
+	- [RxJava for Android](reactivex.io/tutorials.html#android)
+
+This repo will include most of the list in this repo and even focus on Android.
