@@ -37,5 +37,6 @@ Re-Build the project (Build -> Rebuild Project).
 	- [RxJava specific list](http://reactivex.io/tutorials.html#rxjava)
 	- [Designed set of excercises](https://github.com/jhusain/learnrxjava/)
 	- [RxJava for Android](http://reactivex.io/tutorials.html#android)
+- [Rx Android By Example](https://github.com/kaushikgopal/Android-RxJava) 
 
 This repo will include most of the lists in this section and even focus on Android.
