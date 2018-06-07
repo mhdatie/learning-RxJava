@@ -3,7 +3,7 @@
 
 ------------------
 
-##Installation
+## Installation
 
 Open [the .iml file](/GrokkingRxJava/GrokkingRxJava.iml) to load the project. I'm using Intellij Idea Community Version with Java 8.
 
@@ -11,7 +11,7 @@ Open [the .iml file](/GrokkingRxJava/GrokkingRxJava.iml) to load the project. I'
 
 Re-Build the project (Build -> Rebuild Project).
 
-##Resources
+## Resources
 
 [Grokking RxJava Part 1](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 	- **Examples 1-6**
@@ -29,7 +29,7 @@ Re-Build the project (Build -> Rebuild Project).
 
 [Error Handling - Official Documentation](https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava#error-handling)
 
-##Readings/Tutorials
+## Readings/Tutorials
 
 - [RxJava Official Wiki](https://github.com/ReactiveX/RxJava/wiki)
 - [Rx Official Docs](http://reactivex.io/documentation/observable.html)
